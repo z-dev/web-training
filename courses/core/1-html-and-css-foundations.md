@@ -1,4 +1,4 @@
-#HTML and CSS foundations <span style="color:red;">(Not ready)</span>
+#HTML and CSS foundations (Not ready)
 
 # Outcome
 
