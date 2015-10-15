@@ -43,10 +43,13 @@ He talks alot about 'resetting' the css to override the browser defaults. There 
 
 * [Shayhowe](http://learn.shayhowe.com/html-css/). All reading and visual.
 
+* [Another reading example](http://websitesetup.org/html5-beginners-guide/)
+* 
 ## Additional / useful
 
 * [HTML Cheatsheet](http://www.simplehtmlguide.com/cheatsheet.php) (Might be a better one out there)
 
+* [Another cheatsheet](http://websitesetup.org/html5-cheat-sheet/) (Wish it was just a website).
 # Tasks
 
 * Run through the core learning materials + tasks.
