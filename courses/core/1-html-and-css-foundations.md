@@ -55,3 +55,8 @@ He talks alot about 'resetting' the css to override the browser defaults. There 
 # Tasks
 
 * Run through the core learning materials + tasks.
+* [Codecademy problems](https://www.codecademy.com/en/courses/html-css-prj)
+  * Broadway
+  * Innovation Cloud
+  * Move
+* Get one of the above Codecademy courses to work on your laptop locally.
