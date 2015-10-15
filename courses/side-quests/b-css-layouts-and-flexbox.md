@@ -22,9 +22,10 @@ Bare in mind [which browsers flexbox supports](http://caniuse.com/#feat=flexbox)
 
 # Learning materials
 
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-http://www.sketchingwithcss.com/samplechapter/cheatsheet.html
-https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties
+* https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+* http://www.sketchingwithcss.com/samplechapter/cheatsheet.html
+* https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties
+* http://learnlayout.com/flexbox.html
 
 # Tasks
 
