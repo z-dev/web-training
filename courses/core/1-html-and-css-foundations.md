@@ -14,6 +14,7 @@ You'll understand:
 * Text editor (Sublime)
 * Web browser (Chrome)
 * Code School subscription
+* Codecademy account.
 
 # Advice
 
