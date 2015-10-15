@@ -25,7 +25,7 @@ HTML is old and all the browsers have to support it. As a result the tag names e
 
 ### CSS
 
-Opinion: The 'box model' is old and very difficult to reason about. There's a newer model called the flex-box model which I find much easier :).
+Opinion: The 'box model' is old and very difficult to reason about. There's a newer model called the flex-box model which I find much easier :smile:.
 
 Opinion: `float`, `block` and `inline` are hard and getting something to layout how you want it is surprisingly hard.
 
@@ -33,9 +33,20 @@ He talks alot about 'resetting' the css to override the browser defaults. There 
 
 # Learning materials
 
-[Code School Front End Foundations Course](https://www.codeschool.com/courses/front-end-foundations/)
+# Core
+
+* [Code School Front End Foundations Course](https://www.codeschool.com/courses/front-end-foundations/)
 
 [HTML Cheatsheet](http://www.simplehtmlguide.com/cheatsheet.php) (Might be a better one out there)
+
+## Alternative
+
+[Codeacademy](https://www.codecademy.com/courses/web-beginner-en-HZA3b/) No videos, learn by doing.
+[Shayhowe](http://learn.shayhowe.com/html-css/). All reading and visual.
+
+## Additional / useful
+
+* [HTML Cheatsheet](http://www.simplehtmlguide.com/cheatsheet.php) (Might be a better one out there)
 
 # Tasks
 
