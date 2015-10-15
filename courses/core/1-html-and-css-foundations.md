@@ -35,7 +35,7 @@ He talks alot about 'resetting' the css to override the browser defaults. There 
 
 # Core
 
-* [Code School Front End Foundations Course](https://www.codeschool.com/courses/front-end-foundations/)
+* [Code School Front End Foundations Course](https://www.codeschool.com/courses/front-end-foundations/) (Level 1-5)
 
 ## Alternative
 
