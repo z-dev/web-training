@@ -2,6 +2,8 @@
 
 # Outcome
 
+You'll be able to build a static website, control where things go on the page and change the look and feel of things on the page.
+
 You'll understand:
 
 * The syntax and layout of HTML, most of the HTML `<tags>` and what they're used for.
