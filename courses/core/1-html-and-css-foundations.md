@@ -65,4 +65,4 @@ He talks alot about 'resetting' the css to override the browser defaults. There 
 
 ## Optional tasks
 
-* [Make recent Airbnb site from scratch] https://www.codecademy.com/en/skills/make-a-website/
+* [Make recent Airbnb site from scratch](https://www.codecademy.com/en/skills/make-a-website/)
