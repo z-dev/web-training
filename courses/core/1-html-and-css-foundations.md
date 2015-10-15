@@ -52,6 +52,7 @@ He talks alot about 'resetting' the css to override the browser defaults. There 
 
 * [HTML Cheatsheet](http://www.simplehtmlguide.com/cheatsheet.php) (Might be a better one out there)
 
+* [CSS Cheatsheet](http://adam-marsden.co.uk/css-cheat-sheet/)
 * [Another cheatsheet](http://websitesetup.org/html5-cheat-sheet/) (Wish it was just a website).
 # Tasks
 
