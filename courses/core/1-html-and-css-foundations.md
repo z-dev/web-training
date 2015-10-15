@@ -37,12 +37,11 @@ He talks alot about 'resetting' the css to override the browser defaults. There 
 
 * [Code School Front End Foundations Course](https://www.codeschool.com/courses/front-end-foundations/)
 
-[HTML Cheatsheet](http://www.simplehtmlguide.com/cheatsheet.php) (Might be a better one out there)
-
 ## Alternative
 
-[Codeacademy](https://www.codecademy.com/courses/web-beginner-en-HZA3b/) No videos, learn by doing.
-[Shayhowe](http://learn.shayhowe.com/html-css/). All reading and visual.
+* [Codeacademy](https://www.codecademy.com/courses/web-beginner-en-HZA3b/) No videos, learn by doing.
+
+* [Shayhowe](http://learn.shayhowe.com/html-css/). All reading and visual.
 
 ## Additional / useful
 
