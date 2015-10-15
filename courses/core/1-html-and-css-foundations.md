@@ -61,3 +61,7 @@ He talks alot about 'resetting' the css to override the browser defaults. There 
   * Innovation Cloud
   * Move
 * Get one of the above Codecademy courses to work on your laptop locally.
+
+## Optional tasks
+
+* [Make recent Airbnb site from scratch] https://www.codecademy.com/en/skills/make-a-website/
