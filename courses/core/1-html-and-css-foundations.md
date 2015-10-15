@@ -1,4 +1,4 @@
-#HTML and CSS foundations
+#HTML and CSS foundations <span style="color:red;">(Not ready)</span>
 
 # Outcome
 
@@ -49,4 +49,4 @@ He talks alot about 'resetting' the css to override the browser defaults. There 
 
 # Tasks
 
-* Run through the learning materials + tasks.
+* Run through the core learning materials + tasks.
