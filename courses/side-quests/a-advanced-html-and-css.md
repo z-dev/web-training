@@ -10,5 +10,5 @@ You'll understand:
 
 # Core
 
-[Codeschool HTML Formations](https://www.codeschool.com/courses/front-end-formations)
-[Codeschool CSS Cross Country](https://www.codeschool.com/courses/css-cross-country)
+* [Codeschool HTML Formations](https://www.codeschool.com/courses/front-end-formations)
+* [Codeschool CSS Cross Country](https://www.codeschool.com/courses/css-cross-country)
