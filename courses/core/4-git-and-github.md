@@ -4,7 +4,7 @@
 
 You'll:
 
-* Be able to use the common working commands
+* Be able to use the common git commands
 * Collaborate with other developers
 * Version your code so you can back to any previous point in time.
 * Use github and undestanding the PR model for reviewing code.
@@ -25,7 +25,7 @@ We'll be using the Pull Request model so I can take a look at the code you're wr
 
 # Core
 
-* [Code School Git Real](https://www.codeschool.com/courses/git-real)
+* [Code School Git Real 1](https://www.codeschool.com/courses/git-real) (*not* Git Real 2)
 * [Code School Git Mastering Github] (https://www.codeschool.com/courses/mastering-github) Level 1 and 2 only.
 ## Alternative
 
