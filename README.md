@@ -13,7 +13,7 @@
   * JQuery
 
 * Collaborating with others
-  * Git / Github
+  * [Git / Github](courses/core/4-git-and-github.md)
 
 * Building a static website with some nice styling which is controlled
   * ‘Building’ a codebase
