@@ -10,7 +10,7 @@
 
 * Building an interactive website (2010 style!)
   * [Javascript Foundations](courses/core/3-javascript-foundations.md)
-  * JQuery
+  * [JQuery](courses/core/5-jquery.md)
 
 * Collaborating with others
   * [Git / Github](courses/core/4-git-and-github.md)
