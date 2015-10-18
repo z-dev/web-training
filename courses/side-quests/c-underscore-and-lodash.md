@@ -42,4 +42,4 @@ Functions which I use often:
 
 * Run through the learning materials
 * Build an example of 5 of the above function I said I used locally.
-
+* Convert your examples to use lodash and see if they work.
