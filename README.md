@@ -21,11 +21,18 @@
   * Npm
   * SASS (or LESS)
 
+* Accessing external data via HTTP JSON APIs
+  * Http library (Superagent)
+
 * Building an interactive website (2015 style!)
   * CommonJS
   * ES6
   * React
   * Routing (React router? pages.js)
 
-* Accessing external data via HTTP JSON APIs
-  * Http library (Superagent)
+## Side Quests
+
+* [Advanced HTML and CSS](courses/side-quests/a-advanced-html-and-css.md)
+* [CSS Layouts and Flexbox](courses/side-quests/b-css-layouts-and-flexbox.md)
+* Underscore / Lodash
+*
