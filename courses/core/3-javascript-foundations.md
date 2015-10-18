@@ -13,8 +13,8 @@ You'll:
 * Javascript has versions (although Chrome, for example, tends to release them feature by feature all the time). Version ES5 is the current version, but ES6 is a lot better :smile:
 * The code school courses are based on ES5.
 * He says semi colons are necessary and semi colons are good. They're not necessary anymore in modern javascript.
-* These days we don't tend not to use while loops or for loops. We'll use arrays and a collections library instead (Like `.map`). You'll learn this soon.
-* undefined, null is a pain. There are some libraries which help us do undefined and null checking later :smile:
+* These days we don't tend not to use `while` loops or `for` loops. We'll use arrays and a collections library instead (Like `.map`). You'll learn this soon.
+* `undefined` and `null` are a pain. There are some libraries which help us do `undefined` and `null` checking later :smile:
 
 * Javascript (Especially ES5) has a lot of things programmers don't like / find hard. ES6 helps alot of these things.
   * Variable scope
