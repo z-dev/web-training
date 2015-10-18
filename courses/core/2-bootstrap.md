@@ -10,7 +10,9 @@ You'll:
 * Be able to build lots of components you can see all over the web
 * How to include icons onto your page
 
-# Advice
+# Prerequisites
+
+* [html and css foundations](1-html-and-css-foundations.md)
 
 Bootstrap is a great tool when you're starting out. When you get more advanced you might move away from it (i'm not that advanced yet!).
 

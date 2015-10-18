@@ -7,6 +7,11 @@ Warning: This course is long. It's 4 code school courses. But once you're done, 
 You'll:
 
 * Understand the majority of the features of the Javascript language.
+* Be ready to learn how to make interactive web pages.
+
+# Prerequisites
+
+* [html and css foundations](1-html-and-css-foundations.md)
 
 # Advice
 
