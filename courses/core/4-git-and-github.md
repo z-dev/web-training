@@ -31,6 +31,8 @@ We'll be using the Pull Request model so I can take a look at the code you're wr
 
 ## Additional / useful
 
+[Git cheatsheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
+
 # Tasks
 
 * Run through the code school course + tasks.
