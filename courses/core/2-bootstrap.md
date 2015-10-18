@@ -35,6 +35,7 @@ We're going to learn how to customise Bootstrap in a later course, you can modif
 ## Alternative
 
 ## Additional / useful
+
 # Tasks
 
 * Run through the code school course + tasks.
