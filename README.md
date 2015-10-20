@@ -17,7 +17,7 @@
 
 * Building a static website with some nice styling which is controlled
   * [Npm (and require)](courses/core/6-node-quickly.md)
-  * SASS (or LESS)
+  * [SASS](courses/core/7-sass.md)
   * Webpack for 'building' a codebase
 
 * Accessing external data via HTTP JSON APIs
