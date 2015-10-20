@@ -1,4 +1,4 @@
-#HTML and CSS foundations (Not ready)
+#HTML and CSS foundations
 
 # Outcome
 
@@ -47,7 +47,7 @@ He talks alot about 'resetting' the css to override the browser defaults. There 
 * [Shayhowe](http://learn.shayhowe.com/html-css/). All reading and visual.
 
 * [Another reading example](http://websitesetup.org/html5-beginners-guide/)
-* 
+*
 ## Additional / useful
 
 * [HTML Cheatsheet](http://www.simplehtmlguide.com/cheatsheet.php) (Might be a better one out there)

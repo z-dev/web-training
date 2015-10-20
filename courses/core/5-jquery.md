@@ -1,4 +1,4 @@
-#jQuery (Not ready)
+#jQuery
 
 # Outcome
 

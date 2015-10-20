@@ -1,4 +1,4 @@
-#Git and Github (Not ready)
+#Git and Github
 
 # Outcome
 

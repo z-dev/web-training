@@ -1,4 +1,4 @@
-#Advanced HTML and CSS (Not ready)
+#Advanced HTML and CSS
 
 # Outcome
 
