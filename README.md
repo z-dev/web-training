@@ -16,10 +16,9 @@
   * [Git / Github](courses/core/4-git-and-github.md)
 
 * Building a static website with some nice styling which is controlled
-  * ‘Building’ a codebase
-  * Webpack
-  * Npm
+  * [Npm (and require)](courses/core/6-node-quickly.md)
   * SASS (or LESS)
+  * Webpack for 'building' a codebase
 
 * Accessing external data via HTTP JSON APIs
   * Http library (Superagent)

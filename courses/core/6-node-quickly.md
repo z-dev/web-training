@@ -1,4 +1,4 @@
-#Node (Quickly) (Not ready)
+#Node (Quickly)
 
 # Outcome
 
