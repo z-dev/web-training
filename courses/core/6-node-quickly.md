@@ -6,6 +6,7 @@ You'll:
 
 * Have a rough idea what node is
 * Have a good understanding of the module system, how to require code and export code.
+* Have a good understanding of NPM.
 
 # Prerequisites
 
