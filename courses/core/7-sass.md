@@ -40,5 +40,5 @@ We will use a tool called webpack to help do this compilation (and later, other 
 
 # Tasks
 
-* Run through code school + tasks
+* Run through code school + tasks (you can do this quite quickly, variables are important, the rest is nice to know)
 * Pay close attention to Level 4. Module system + npm will be important very soon. Do the tasks for this level.
