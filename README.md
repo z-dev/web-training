@@ -18,7 +18,7 @@
 * Building a static website with some nice styling which is controlled
   * [Npm (and require)](courses/core/6-node-quickly.md)
   * [SASS](courses/core/7-sass.md)
-  * Webpack for 'building' a codebase
+  * [Webpack for 'building' a codebase](courses/core/8-webpack.md)
 
 * Accessing external data via HTTP JSON APIs
   * Http library (Superagent)
