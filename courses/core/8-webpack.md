@@ -36,7 +36,7 @@ What will webpack do for us:
 # Tasks
 
 * Skim through the cookbook.
-* Checkout the sample webpack project.
+* Checkout the [sample webpack project](https://github.com/richardgill/webpack-seed).
   * Write some SCSS and check it compiles to CSS and you can see it in chrome
   * Do some javascript `require`s and look at the output in chrome
   * Write some ES6 e.g. `var helloWorld = () => console.log('hello world'); helloWorld()` and check it works.
