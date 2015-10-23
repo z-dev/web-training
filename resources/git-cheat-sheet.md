@@ -37,9 +37,9 @@ For a comprehensive cheat sheet see [github's one]()
 
 `git checkout existing-branch-name`
 
-###Get the lastest view of the world from github (if other people committed stuff and pushed it)
+###Get the lastest version of a particular branch from github (if other people committed stuff and pushed it)
 
-`git pull origin branch-name`
+`git pull origin branch-name` Warning `pull` also merges it the branch you're currently on. If you don't want to merge it, use `fetch`.
 
 ###The bail out
 
