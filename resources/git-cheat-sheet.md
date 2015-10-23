@@ -41,6 +41,15 @@ For a comprehensive cheat sheet see [github's one]()
 
 `git pull origin branch-name` Warning `pull` also merges it the branch you're currently on. If you don't want to merge it, use `fetch`.
 
+
+###See what changes you made a file
+
+`git diff`
+
+###See what changes you made a file (but you already 'added' it)
+
+`git diff --cached`
+
 ###The bail out
 
 git clone the whole thing again into a new folder :p (I do this sometimes :p) and start from there :smile:
