@@ -24,7 +24,6 @@
   * Http library (Superagent)
 
 * Building an interactive website (2015 style!)
-  * CommonJS
   * ES6
   * React
   * Routing (React router? pages.js)
