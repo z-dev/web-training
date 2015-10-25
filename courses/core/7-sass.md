@@ -4,7 +4,12 @@
 
 You'll:
 
-* Have a good understanding of Sass.
+* Have a general understanding of Sass.
+* Have a good understanding of:
+  * Variables
+  * Importing
+
+Other than importing / variables, the other features are a nice to have right now.
 
 # Prerequisites
 
