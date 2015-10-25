@@ -12,9 +12,10 @@
   * [Git / Github](courses/core/4-git-and-github.md)
 
 * Building a static website with some nice styling which is controlled
-  * [SASS](courses/core/7-sass.md)
+  * [Sass](courses/core/7-sass.md)
   * [Npm (and require)](courses/core/6-node-quickly.md)
   * [Webpack for 'building' a codebase](courses/core/8-webpack.md)
+  * [Bootstrap with Sass](courses/core/9-bootstrap-with-sass.md)
 
 * Building an interactive website (2010 style!)
   * [Javascript Foundations](courses/core/3-javascript-foundations.md)
