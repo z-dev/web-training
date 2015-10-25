@@ -4,7 +4,8 @@
 
 You'll:
 
-* Have an understand of what webpack is and what it's used for.
+* Have a basic understanding of what webpack is and what it's used for.
+* Be able to use webpack using our seed project.
 
 # Prerequisites
 
@@ -35,8 +36,9 @@ What will webpack do for us:
 
 # Tasks
 
-* Skim through the cookbook.
+* *Skim* through the cookbook.
 * Checkout the [sample webpack project](https://github.com/richardgill/webpack-seed).
-  * Write some SCSS and check it compiles to CSS and you can see it in chrome
+  * Modify some SCSS and check it compiles to CSS and you can see it in chrome
+  * Modify some javascript and look at the output in chrome
   * Do some javascript `require`s and look at the output in chrome
-  * Write some ES6 e.g. `var helloWorld = () => console.log('hello world'); helloWorld()` and check it works.
+  * Look at how javascript's ES6's features are being 'compiled' in Chrome.
