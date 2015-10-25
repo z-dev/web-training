@@ -38,7 +38,8 @@ What will webpack do for us:
 
 * *Skim* through the cookbook.
 * Checkout the [sample webpack project](https://github.com/richardgill/webpack-seed).
+  * Read the readme for the commands you can run
   * Modify some SCSS and check it compiles to CSS and you can see it in chrome
   * Modify some javascript and look at the output in chrome
   * Do some javascript `require`s and look at the output in chrome
-  * Look at how javascript's ES6's features are being 'compiled' in Chrome.
+  * Look at how javascript's ES6's features are being 'compiled' in Chrome
