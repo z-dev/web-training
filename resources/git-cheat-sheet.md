@@ -50,6 +50,16 @@ For a comprehensive cheat sheet see [github's one]()
 
 `git diff --cached`
 
+###Move a file / folder
+
+Moving is a special operation in git. As well as add and remove.
+
+You can either do a `mv file1 file2`. But git will think you deleted file1 and created file2. So `git status` will show two changes. Instead we can do:
+
+`git mv file1 file2`
+
+This tells git that we're actually moving a file. It shows up as 1 change in `git status` and makes the history neater later. 
+
 ###The bail out
 
 git clone the whole thing again into a new folder :p (I do this sometimes :p) and start from there :smile:
