@@ -39,7 +39,7 @@ We will use a tool called webpack to help do this compilation (and later, other 
 
 # Core
 
-* [Code School Assembling Sass](https://www.codeschool.com/courses/assembling-sass)
+* [Code School Assembling Sass](https://www.codeschool.com/courses/assembling-sass) (Level 1 & 2. Skip or Skim the rest.)
 
 ## Alternative
 
