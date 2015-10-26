@@ -21,6 +21,9 @@ To move up a directory: `cd ..`
 
 `cat filename`
 
+###Kill a running process
+
+<ctrl + c>
 ## Tips
 
 ### Tab
