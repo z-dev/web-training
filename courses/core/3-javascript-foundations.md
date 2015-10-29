@@ -42,7 +42,7 @@ You'll:
 * [Javascript Road Trip Part 1](https://www.codeschool.com/courses/javascript-road-trip-part-1)
 * [Javascript Road Trip Part 2](https://www.codeschool.com/courses/javascript-road-trip-part-2)
 * [Javascript Road Trip Part 3](https://www.codeschool.com/courses/javascript-road-trip-part-3)
-* [Javascript best practices](https://www.codeschool.com/courses/javascript-best-practices) (But not the last section (Namespacing))
+* [Javascript best practices](https://www.codeschool.com/courses/javascript-best-practices) (Just watch section 2, Skip section 4 (Namespacing))
 
 ## Additional / useful
 
