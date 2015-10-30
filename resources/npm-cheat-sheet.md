@@ -30,7 +30,7 @@ If you install a dependency 'globally' you can access it from anywhere on your c
 
 To install something globally:
 
-`npm install -g netlify` `-g` is for global.
+`npm install -g netlify` note the `-g` is for global.
 
 You can then do
 
@@ -51,6 +51,8 @@ You can then find the thing you can run from the command line in `node_modules/.
 
 `cd [directory code is in]`
 `npm init`
+
+It will ask you a load of questions and then create a `package.json` for you (you could just create the package.json by hand / copy it in from somewhere.)
 
 ### Install all the dependencies in `package.json`
 
