@@ -12,6 +12,10 @@ dependencies are installed inside the `./node_modules` folder.
 
 dependency only needed to build your project or 'dev' it locally. E.g. Webpack.
 
+### Finding dependencies
+
+Google "<thing you want to do> npm". It will tend to lead you to the [npm site which has a search function](https://www.npmjs.com/search?q=netlify) should you need it.
+
 ###version
 
 Semantic versions go <major>.<minor>.<patch> e.g. version 3.1.2.
