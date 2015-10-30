@@ -18,7 +18,7 @@ Google "thing you want to do npm". It will tend to lead you to the [npm site whi
 
 ###version
 
-Semantic versions go [major].[minor].[patch] e.g. version 3.1.2.
+[Semantic versions](http://semver.org/) go [major].[minor].[patch] e.g. version 3.1.2.
 
 ###the package.json file
 
