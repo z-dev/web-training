@@ -28,7 +28,13 @@ Google "thing you want to do npm". It will tend to lead you to the [npm site whi
 
 If you install a dependency 'globally' you can access it from anywhere on your command line. e.g. `netlify`.
 
-To install something globally: `npm install -g [dependency_name]` `-g` is for global.
+To install something globally:
+
+`npm install -g netlify` `-g` is for global.
+
+You can then do
+
+`netlify` (note: the command doesn't have to match the dependency name)
 
 
 ###not installing things globally.
