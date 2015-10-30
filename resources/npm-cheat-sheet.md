@@ -18,7 +18,7 @@ Google "thing you want to do npm". It will tend to lead you to the [npm site whi
 
 ###version
 
-Semantic versions go <major>.<minor>.<patch> e.g. version 3.1.2.
+Semantic versions go [major].[minor].[patch] e.g. version 3.1.2.
 
 ###the package.json file
 
@@ -28,7 +28,7 @@ Semantic versions go <major>.<minor>.<patch> e.g. version 3.1.2.
 
 If you install a dependency 'globally' you can access it from anywhere on your command line. e.g. `netlify`.
 
-To install something globally: `npm install -g <dependency_name>` `-g` is for global.
+To install something globally: `npm install -g [dependency_name]` `-g` is for global.
 
 
 ###not installing things globally.
@@ -43,7 +43,7 @@ You can then find the thing you can run from the command line in `node_modules/.
 
 ### Initialize current project as npm project
 
-`cd <directory code is in>`
+`cd [directory code is in]`
 `npm init`
 
 ### Install all the dependencies in `package.json`
@@ -52,11 +52,11 @@ You can then find the thing you can run from the command line in `node_modules/.
 
 ### Add a new dependency to the `package.json` file
 
-`npm install <package_name> --save`
+`npm install [package_name] --save`
 
 ### Add a new dev dependency to the `package.json` file
 
-`npm install <package_name> --save-dev`
+`npm install [package_name] --save-dev`
 
 ### Add a 'script' you can rerun
 
