@@ -3,22 +3,22 @@
 ## Abilities
 
 * Build static website with basic styling
-  * [HTML and CSS foundations](courses/core/1-html-and-css-foundations.md)
+  * [HTML and CSS foundations](courses/core/1-html-and-css-foundations.md) ![](https://img.shields.io/badge/status-done-brightgreen.svg)
 
 * Building a static website with some nice styling (no control of styling)
-  * [Bootstrap](courses/core/2-bootstrap.md)
+  * [Bootstrap](courses/core/2-bootstrap.md) ![](https://img.shields.io/badge/status-done-brightgreen.svg)
 
 * Collaborating with others
-  * [Git / Github](courses/core/4-git-and-github.md)
+  * [Git / Github](courses/core/4-git-and-github.md) ![](https://img.shields.io/badge/status-done-brightgreen.svg)
 
 * Building a static website with some nice styling which is controlled
-  * [Sass](courses/core/7-sass.md)
-  * [Npm (and require)](courses/core/6-node-quickly.md)
-  * [Webpack for 'building' a codebase](courses/core/8-webpack.md)
-  * [Bootstrap with Sass](courses/core/9-bootstrap-with-sass.md)
+  * [Sass](courses/core/7-sass.md) ![](https://img.shields.io/badge/status-done-brightgreen.svg)
+  * [Npm (and require)](courses/core/6-node-quickly.md) ![](https://img.shields.io/badge/status-done-brightgreen.svg)
+  * [Webpack for 'building' a codebase](courses/core/8-webpack.md) ![](https://img.shields.io/badge/status-done-brightgreen.svg)
+  * [Bootstrap with Sass](courses/core/9-bootstrap-with-sass.md) ![](https://img.shields.io/badge/status-done-brightgreen.svg)
 
 * Building an interactive website (2010 style!)
-  * [Javascript Foundations](courses/core/3-javascript-foundations.md)
+  * [Javascript Foundations](courses/core/3-javascript-foundations.md) 
   * [JQuery](courses/core/5-jquery.md)
 
 
