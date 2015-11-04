@@ -18,8 +18,8 @@
   * [Bootstrap with Sass](courses/core/9-bootstrap-with-sass.md) ![](https://img.shields.io/badge/status-done-brightgreen.svg)
 
 * Building an interactive website (2010 style!)
-  * [Javascript Foundations](courses/core/3-javascript-foundations.md) 
-  * [JQuery](courses/core/5-jquery.md)
+  * [Javascript Foundations](courses/core/3-javascript-foundations.md) ![](https://img.shields.io/badge/status-done-brightgreen.svg)
+  * [JQuery](courses/core/5-jquery.md) ![](https://img.shields.io/badge/status-done-brightgreen.svg)
 
 
 * Accessing external data via HTTP JSON APIs
