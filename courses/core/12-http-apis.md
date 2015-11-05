@@ -43,7 +43,7 @@ Pros:
 * Powerful hardware
   * If someone loads an app on their smartphone and it tries to locally compute some really complex thing it's going to be slow. Instead you can query a http api and let a MASSIVE server do this for you :) .
 * Scalability
-  * You could host your HTTP API on a single Core 2 duo server with 4GB of ram. But when you have a lot of users you might face 1000 HTTP requests per minute. At some point, your server will not cope and the requests will take longer. At some point some people won't get answers.
+  * You could host your HTTP API on a single Core 2 duo server with 4GB of ram. But when you have a lot of users you might face 1000 HTTP requests per minute. At some point, your server will not cope and the requests will take longer. At some point some people won't even get responses any more (a HTTP timeout).
   * With HTTP APIs you can host 2x Core 2 Duo server with 4GB of ram. You then put a very lightweight, industrial strength HTTP server at the front which simply diverts requests on to one of the two. This is called a load balancer. NGINX and HA-Proxy are the big ones.
 * Keeping things REALLY seperate (and reusable)
   * If you put all your code all in one project it tends to grow and grow and eventually becomes a steaming mess. Some people think that splitting things out might help. (This is a hard topic.)
