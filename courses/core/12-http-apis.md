@@ -14,7 +14,7 @@ API is a horribly overriden term. It's quite general. Loosely it means: 'When i'
 I found it really hard to define properly, so here are some examples.
 
 * jQuery has an api. It's the desciption of all the functions jQuery has.
-  * One part of that api would be: `$('my-class') #Will select all elements in the DOM which have .my-class and return all the HTML elements that match.
+  * One part of that api would be: `$('my-class') #Will select all elements in the DOM which have .my-class and return all the HTML elements that match.`
 * javascript doesn't have an api because it's not a library / framework, it's a programming language. I don't know why, but you wouldn't say 'javascript's api' to refer to the `+` operator. It's just part of the language. It's only things built on top of programming languages which have APIS. (1)
 * http://ws.spotify.com/search/1/artist.json?q=kate%20bush is an api. Because it takes parameters and returns structured data.
 * http://google.com is not an api, because it doesn't return computer readable structured data. (It does take parameters though! e.g. https://google.com/?q=hello+john)
