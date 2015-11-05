@@ -33,4 +33,6 @@ Redirection is quite important, it's very common to redirect http -> https (secu
   * Do me two query parameters: name which should be "john" and age which should be 20.
   * What verbs are there?
   * Which verb does a web browser when you load a page?
+  * What goes into a request?
+  * What is in a response?
 
