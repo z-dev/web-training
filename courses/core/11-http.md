@@ -20,7 +20,9 @@ e.g:
 
 You can invoke HTTP over the command line. The two most popular are `curl` and `wget`. Curl is a pain to use: [this helps me](https://curlbuilder.com/). Try `curl -XGET 'http://www.google.co.uk'`.
 
-Redirection is quite important, it's very common to redirect http -> https (secure is good :smile:). http://google.com -> http://www.google.com for example.
+Redirection is quite important, it's very common to do these redirects
+* http -> https (secure is good :smile:).
+* http://google.com -> http://www.google.com.
 
 # Learning materials
 
