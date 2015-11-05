@@ -33,12 +33,12 @@ Cons:
 
 * Unreliable? If network breaks, API breaks.
   * HTTP uses something called TCP. Which helps with little mini failures. (2)
-* Slower, networks are 'IO' IO is always slowest bit.
+* Slower, networks are 'IO' (Input Output). IO is always slowest bit.
 
 Pros:
 
 * Keeping things secret
-  * If you've written some code which does something that other people find hard and is useful. You're probably a millionaire. Keeping it secret is useful :smile:.
+  * If you've written some code which does something that other people find hard to program a solution to and is useful. Then you're probably a millionaire. Keeping it secret is useful :smile:.
   * When you host a HTTP api, you just open up one port e.g. port 80 for HTTP traffic. This does not allow people to see you code. They just know what they can do with the API and what it will return. They have no idea / access to how it works. It's a 'black box'.
 * Powerful hardware
   * If someone loads an app on their smartphone and it tries to locally compute some really complex thing it's going to be slow. Instead you can query a http api and let a MASSIVE server do this for you :) .
