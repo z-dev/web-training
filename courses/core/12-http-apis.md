@@ -58,11 +58,11 @@ This has really kicked off in the last 5 years. The primary reason is that the w
 
 ###So what is standard?
 
-Restful(ish) HTTP APIS which return JSON as the response format. You can also return XML but bother are machine readible but JSON is more human readable, which has made JSON popular.
+Restful(ish) HTTP APIS which return JSON as the response format. You can also return XML, both are machine readible. JSON is more human readable, which has made JSON popular.
 
 #### When you might not use HTTP
 
-You care about performance. Most games, torrents, skype. Are probably going to use something which operates using UDP. There is a new things I know nothing about called webrtc that I think does this for websites (appear.in uses it I think).
+You care about performance e.g. games, torrents, skype. These are probably going to use something which operates using UDP. There is a new thing I know nothing about called webrtc that I think does this for websites (appear.in uses it I think).
 
 If you want asynchronous communications e.g. a push notification. Then HTTP has not got your back. Websockets is a relatively recent addition to browsers that can do it. For example when a hangout comes in and Gmail pops it open, that's probably websockets.
 
@@ -74,11 +74,11 @@ You need to be super-careful about checking the format of data in or out. Banks 
 
 You care about the size of the data you're sending around. JSON is human readible, but it's not compressed at all. There are formats which compress it down to binary and back again in a repeatable way.
 
-[BSON (binary JSON)](https://en.wikipedia.org/wiki/BSON)
-[Profobuf (by google)](https://developers.google.com/protocol-buffers/?hl=en)
-[Thrift (by twitter)](https://thrift.apache.org/)
+* [BSON (binary JSON)](https://en.wikipedia.org/wiki/BSON)
+* [Profobuf (by google)](https://developers.google.com/protocol-buffers/?hl=en)
+* [Thrift (by twitter)](https://thrift.apache.org/)
 
-But to use these, you need a library with can 'parse' and 'serialize' these formats.
+But to use these, you need a library with can 'parse' and 'serialize' these formats. Debugging messages is also impossible without serializing the messages back to a human readible form.
 
 # Learning materials
 
