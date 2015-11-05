@@ -56,6 +56,30 @@ When talking about HTTP APIs another word that's bounded around alot is REST. It
 
 This has really kicked off in the last 5 years. The primary reason is that the web sandbox only allows you to call out to things using the HTTP protocol. Alot of technologies in the last 10 years became popular and then became standard because websites are very popular (obviously). And the restrictions of the web haven't really changed, so in the end people found ways to make these things good. E.g. Javascript (which was truly awful 10 years ago). And HTTP for APIs, which would have made you sound mad 10 years ago. Once the tools / online resources became available people then started using them where they didn't even need to (desktop apps / mobile apps).
 
+###So what is standard?
+
+Restful(ish) HTTP APIS which return JSON as the response format. You can also return XML but bother are machine readible but JSON is more human readable, which has made JSON popular.
+
+#### When you might not use HTTP
+
+You care about performance. Most games, torrents, skype. Are probably going to use something which operates using UDP. There is a new things I know nothing about called webrtc that I think does this for websites (appear.in uses it I think).
+
+If you want asynchronous communications e.g. a push notification. Then HTTP has not got your back. Websockets is a relatively recent addition to browsers that can do it. For example when a hangout comes in and Gmail pops it open, that's probably websockets.
+
+Async is more complicated to code and reason about than sync. So use sync unless you need async.
+
+#### When might you not use JSON
+
+You need to be super-careful about checking the format of data in or out. Banks are reknowned for using XML (which can have a 'schema' with it, which lays out rules for what is / isn't allowed). XML is just not great IMO. I'd rather use JSON and write some code to validate it's correct...
+
+You care about the size of the data you're sending around. JSON is human readible, but it's not compressed at all. There are formats which compress it down to binary and back again in a repeatable way.
+
+[BSON (binary JSON)](https://en.wikipedia.org/wiki/BSON)
+[Profobuf (by google)](https://developers.google.com/protocol-buffers/?hl=en)
+[Thrift (by twitter)](https://thrift.apache.org/)
+
+But to use these, you need a library with can 'parse' and 'serialize' these formats.
+
 # Learning materials
 
 # Core
@@ -67,6 +91,7 @@ This has really kicked off in the last 5 years. The primary reason is that the w
 
 * Read the primer
 * Read the advice.
+* Compare [JSON api call](http://ws.spotify.com/search/1/artist.json?q=kate%20bush) to [XML api call](http://ws.spotify.com/search/1/artist?q=kate%20bush)
 
 # Footnotes
 
