@@ -7,11 +7,16 @@ You'll:
 
 # Advice
 
-HTTP is the 'protocol' used to load webpages. It's a standard agreed by a bunch of people with neck beards come up with, developers who do httpy stuff (Firefox / Chrome developers etc.) then follow the standards.
+HTTP is the 'protocol' used to load webpages. It's a standard agreed by a bunch of people with neck beards come up with, developers who do httpy stuff (Firefox / Chrome developers etc.) then follow those standards.
 
 It's worth noting that HTTP is [Synchronous](http://stackoverflow.com/questions/748175/asynchronous-vs-synchronous-execution-what-does-it-really-mean), so when you fire off a HTTP request, you wait for the response, there is a persistent connection. If your internet is disrupted in the mean time, you'll most likely get an error.
 
-HTTP calls can return data in many any file format. http://google.com will return HTML which your browser understands and does stuff with. http://textfiles.com/100/914bbs.txt is a text file. https://upload.wikimedia.org/wikipedia/commons/e/e9/Felis_silvestris_silvestris_small_gradual_decrease_of_quality.png is a png file.
+HTTP calls can return data in many any file format.
+e.g:
+
+* http://google.com will return HTML which your browser understands and does stuff with.
+* http://textfiles.com/100/914bbs.txt is a text file.
+* https://upload.wikimedia.org/wikipedia/commons/e/e9/Felis_silvestris_silvestris_small_gradual_decrease_of_quality.png is a png file.
 
 You can invoke HTTP over the command line. The two most popular are `curl` and `wget`. Curl is a pain to use: [this helps me](https://curlbuilder.com/). Try `curl -XGET 'http://www.google.co.uk'`.
 
