@@ -9,6 +9,8 @@ You'll:
 
 Initially HTTP was used only for websites. But then some bright spark decided to also use it for 'APIs'.
 
+## WTF is API?
+
 API is a horribly overriden term. It's quite general. Loosely it means: 'When i'm programming and do this. This will happen.'. It refers to a collection of local or remote function calls.
 
 I found it really hard to define properly, so here are some examples.
@@ -19,13 +21,13 @@ I found it really hard to define properly, so here are some examples.
 * http://ws.spotify.com/search/1/artist.json?q=kate%20bush is an api. Because it takes parameters and returns structured data.
 * http://google.com is not an api, because it doesn't return computer readable structured data. (It does take parameters though! e.g. https://google.com/?q=hello+john)
 
-So having thought about it more I would say. API is a way of describing something which is conceptually like a 'function'. It takes parameters or data in and returns data out in a format a computer can easily understand.
+So having thought about it more maybe: An API is a way of describing something which is conceptually like a 'function'. It takes parameters or data in and returns data out in a format a computer can easily understand.
 
 Some of these APIs run locally e.g. jQuery. They execute all within your programming language and return data in your programming language e.g. an int or a string.
 
 Some of these APIs run remotely e.g. http apis. You send a http message across the network to another process, which interprets the message. Runs a function and then sends a structured message back with the response.
 
-So why are remote API calls a good idea?
+##Why are remote API calls a good idea?
 
 Cons:
 
