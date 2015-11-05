@@ -23,6 +23,7 @@
 
 
 * Accessing external data via HTTP JSON APIs
+  * HTTP and Websites 
   * Http library (Superagent)
 
 * Building an interactive website (2015 style!)
@@ -35,3 +36,4 @@
 * [Advanced HTML and CSS](courses/side-quests/a-advanced-html-and-css.md)
 * [CSS Layouts and Flexbox](courses/side-quests/b-css-layouts-and-flexbox.md)
 * [Underscore / Lodash](courses/side-quests/c-underscore-and-lodash.md)
+* Bash scripts
