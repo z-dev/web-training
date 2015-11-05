@@ -23,8 +23,10 @@
 
 
 * Accessing external data via HTTP JSON APIs
-  * HTTP and Websites 
-  * Http library (Superagent)
+  * [HTTP](courses/core/11-http.md)
+  * [Websites](courses/core/12-websites.md)
+  * HTTP APIs
+  * HTTP API library (Superagent)
 
 * Building an interactive website (2015 style!)
   * [ES6/7](courses/core/10-es6.md)
