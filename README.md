@@ -25,7 +25,7 @@
 * Accessing external data via HTTP JSON APIs
   * [HTTP](courses/core/11-http.md)
   * [HTTP APIs](courses/core/12-http-apis.md)
-  * [HTTP API library (Superagent)](13-http-apis-in-javascript.md)
+  * [HTTP API library (Superagent)](courses/core/13-http-apis-in-javascript.md)
 
 * Building an interactive website (2015 style!)
   * [ES6/7](courses/core/10-es6.md)
