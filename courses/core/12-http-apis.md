@@ -92,6 +92,7 @@ But to use these, you need a library with can 'parse' and 'serialize' these form
 * Read the primer
 * Read the advice.
 * Compare [JSON api call](http://ws.spotify.com/search/1/artist.json?q=kate%20bush) to [XML api call](http://ws.spotify.com/search/1/artist?q=kate%20bush)
+* Download [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) and use it to call this api: http://ws.spotify.com/search/1/artist.json?q=kate%20bush
 
 # Footnotes
 
