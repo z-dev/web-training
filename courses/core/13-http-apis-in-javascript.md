@@ -14,7 +14,7 @@ User opens your website. HTML, CSS and Javascript is downloaded. Javascript star
 There are low level functions to do this in the browser: `XMLHttpRequest`. They're quite horrible.
 
 ### How we do it
-Instead we'll use a library. The nicest library for doing this IMO is [SuperAgent](http://visionmedia.github.io/superagent/). Super agent uses a (fluid interface)[https://en.wikipedia.org/wiki/Fluent_interface]. Where you chain loads and loads of methods together to make everything very readible.
+Instead we'll use a library. The nicest library for doing this IMO is [SuperAgent](http://visionmedia.github.io/superagent/). Super agent uses a [fluid interface](https://en.wikipedia.org/wiki/Fluent_interface). Where you chain loads and loads of methods together to make everything very readible.
 
 ### JSON deserializing / serializing
 
