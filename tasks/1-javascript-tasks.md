@@ -12,7 +12,7 @@ Starting point is always `gillFamily`.
 
 ###1
 
-Write the code to produce an array of the names of the gill family. e.g ['john', 'daniel' ... etc.]
+Write the code to produce an array of the names of the gill family. e.g `['john', 'daniel' ... etc.]`
 
 ###2
 Write the code to produce an array of the names of the gill family including surnames. E.g. `['john gill', 'daniel gill'...etc.]`
