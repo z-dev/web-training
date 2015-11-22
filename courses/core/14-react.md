@@ -76,7 +76,7 @@ In the order javascript evalulates it:
 
 Components are 'defined' (once), 'created' (0 or more times). Once a component is 'created' it 'lives' for a period of time (whilst the user has the website open?).
 
-Components have can be defined with functions. These functions are called at certain points in a components life.
+The functions inside the component definition are called at certain points in a components life.
 
 ####Defining a component
 ```
