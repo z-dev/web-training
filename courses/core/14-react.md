@@ -25,7 +25,7 @@ JSX doesn't quite generate a string. I think it generates DOM javascript 'object
 
 #### Attribute names are different
 
-They're camel cased by convention. Sometimes they're a tiny bit different, but React normally just tells you the problem and the fix in the console :). [Read more](https://facebook.github.io/react/docs/tags-and-attributes.html)
+They're camel cased by convention (instead of dashed). Sometimes they're a tiny bit different, but React normally just tells you the problem and the fix in the console :). [Read more](https://facebook.github.io/react/docs/tags-and-attributes.html)
 
 `<button class="btn btn-primary">Click Me</button>` -> `<button className="btn btn-primary">Click Me</button>`
 
@@ -43,11 +43,18 @@ var buttonClass = 'btn btn-primary'
 var button  = <button className={buttonClass}>Click Me</button>
 ```
 
+*Exception*
+It's quite rare to use it though.
+```
+var elementType = 'div'
+var someHtml = <elementType></elementType>
+```
+
 ##React
 
 React is a javascript library which helps build more complex interactive UIs. It helps you build 'views' (User Interfaces) which change as inputs come in (e.g. data from a http api, or a user clicking things).
 
-It provides about 5 important APIs, that you need to understand well. And a bunch of less important things you can learn as you go away.
+It provides about 5 important APIs, that you need to understand well. And a bunch of less important things you can learn as you go.
 
 Important APIs:
 
@@ -58,10 +65,9 @@ React.render(<p>Hello</p>, document.getElementById('content'));
 ```
 In the order javascript evalulates it:
 
-`<p>Hello</p>` is JSX for the html `"<p>Hello</p>"`
-`document.getElementById('content')`  is equivalent to `$('#content')` in jquery. But without jQuery cos you probably wouldn't mix up your react and jQuery.
-
-So this whole thing is pretty much like: `$('#content').replace(<p>Hello</p>)`
+* `<p>Hello</p>` is JSX for the html `"<p>Hello</p>"`
+* `document.getElementById('content')`  is equivalent to `$('#content')` in jquery. But without jQuery cos you probably wouldn't mix up your react and jQuery.
+*So this whole thing is pretty much like: `$('#content').replace(<p>Hello</p>)`
 
 
 ###React.createClass (React Components)
