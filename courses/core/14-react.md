@@ -112,7 +112,7 @@ Here we pass a prop called `name` into the hero with the value `'Puck'`.
 
 ####Talking about props inside the component
 
-Inside any of the functions we pass into `createClass` e.g. render.  We can access the prop using `this.props.name`.
+Inside any of the functions we pass into `createClass` e.g. `render`.  We can access the prop using `this.props.name`.
 
 `this.props` is an object with all the props in. e.g. `{name: 'Puck'}`
 ```
@@ -145,7 +145,7 @@ var hero = React.createClass({
 
   render: function() {
     return (
-      <div>{this.props.name}</div>
+      <div>{this.state.name}</div>
     );
   }
 })
@@ -153,10 +153,13 @@ var hero = React.createClass({
 #####setState function
 In any of the functions inside the component. You can say `this.setState({name: 'Danger Mouse'})`.
 
-*Important* any time you change the state of a component React will call the `render` function again and update the component automatically on the screen.
+Any time you change the state of a component React will call the `render` function again and update the component automatically on the screen.
+
+Do not set state like this: `this.state = {name: 'Danger Mouse'}`. It won't call the `render` function, and might just completely break everything.
+
 ####Talking about state inside the component
 
-Inside any of the functions we pass into `createClass` e.g. render.  We can access the state (which is also an object like props) using `this.state`.
+Inside any of the functions we pass into `createClass` e.g. `render`.  We can access the state (which is also an object like props) using `this.state`.
 
 ###componentWillMount
 
@@ -169,8 +172,9 @@ Inside any of the functions we pass into `createClass` e.g. render.  We can acce
 ##How to think about React
 
 * React is a library which lets you create new HTML tags (components) e.g: `<hero name='Puck'/>`.
-* React components are essentially `props` (immutable) + `state` (can change) and a `render` function which probably talks about `props` and `state`.
-  * Think of react as `function render(props, state) { return(<div>{this.props.name} {this.state.somethingElse})}`
+* React components are essentially: `props` (immutable) + `state` (can change) and a `render` function which probably talks about `props` and `state`.
+  * Think of react as: `function render(props, state) { return(<div>{this.props.name} {this.state.somethingElse}) }`
+  * This function gets called every time state changes and will automatically update the DOM.
 
 # Learning materials
 
