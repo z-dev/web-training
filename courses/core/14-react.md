@@ -67,13 +67,18 @@ In the order javascript evalulates it:
 
 * `<p>Hello</p>` is JSX for the html `"<p>Hello</p>"`
 * `document.getElementById('content')`  is equivalent to `$('#content')` in jquery. But without jQuery cos you probably wouldn't mix up your react and jQuery.
-*So this whole thing is pretty much like: `$('#content').replace(<p>Hello</p>)`
+* So this whole thing is pretty much like: `$('#content').replace(<p>Hello</p>)`
 
 
 ###React.createClass (React Components)
 
-`React.createClass` is how you define a 'component'. Components the only idea in React. They can have [different functions defined inside them](https://facebook.github.io/react/docs/component-specs.html): e.g. `render`, `componentWillMount`. These functions are called at certain points in a components life.
+`React.createClass` is how you define a 'component'. Components is the only idea in React. They can have [different functions defined inside them](https://facebook.github.io/react/docs/component-specs.html): e.g. `render`, `componentWillMount`.
 
+Components are 'defined' (once), 'created' (0 or more times). Once a component is 'created' it 'lives' for a period of time (whilst the user has the website open?).
+
+Components have can be defined with functions. These functions are called at certain points in a components life.
+
+####Defining a component
 ```
 var myComponent = React.createClass({
   render: function() {
@@ -84,7 +89,7 @@ var myComponent = React.createClass({
 })
 ```
 We will be putting each component in it's own file (and `module.export`ing it for use else where.)
-
+####Creating (instantiating) a component
 You can then write: `<myComponent />`. So you can basically define your own html tags. E.g. `<hero />` which would render a dota hero. You can reuse it anywhere.
 
 ###render
