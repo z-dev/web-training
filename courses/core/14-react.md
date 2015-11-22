@@ -94,7 +94,7 @@ You can then write: `<myComponent />`. So you can basically define your own html
 
 ###render
 
-`render` is a function which returns JSX. The component will call the render function whenever it wants to know: 'What does this component currently look like.'. It will take the output of the `render` function and put it into the browser (it updates the DOM automatically every time it calls the render function).
+`render` is a function which returns JSX. The component will call the render function whenever it wants to know: 'What does this component currently look like at this point in its life.'. It will take the output of the `render` function and put it into the browser (it updates the DOM automatically every time it calls the render function).
 
 Every component *Must* have a `render` function.
 
