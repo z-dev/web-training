@@ -29,7 +29,7 @@
 
 * Building an interactive website (2015 style!)
   * [ES6/7](courses/core/10-es6.md)
-  * React
+  * [React](courses/core/14-react.md)
   * Routing (React router? pages.js)
 
 ## Side Quests
