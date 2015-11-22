@@ -23,12 +23,12 @@
 
 
 * Accessing external data via HTTP JSON APIs
-  * [HTTP](courses/core/11-http.md)
-  * [HTTP APIs](courses/core/12-http-apis.md)
-  * [HTTP API library (Superagent)](courses/core/13-http-apis-in-javascript.md)
+  * [HTTP](courses/core/11-http.md) ![](https://img.shields.io/badge/status-done-brightgreen.svg)
+  * [HTTP APIs](courses/core/12-http-apis.md) ![](https://img.shields.io/badge/status-done-brightgreen.svg)
+  * [HTTP API library (Superagent)](courses/core/13-http-apis-in-javascript.md) ![](https://img.shields.io/badge/status-done-brightgreen.svg)
 
 * Building an interactive website (2015 style!)
-  * [ES6/7](courses/core/10-es6.md)
+  * [ES6/7](courses/core/10-es6.md)![](https://img.shields.io/badge/status-done-brightgreen.svg)
   * [React](courses/core/14-react.md)
   * Routing (React router? pages.js)
 
@@ -36,5 +36,5 @@
 
 * [Advanced HTML and CSS](courses/side-quests/a-advanced-html-and-css.md) ![](https://img.shields.io/badge/status-done-brightgreen.svg)
 * [CSS Layouts and Flexbox](courses/side-quests/b-css-layouts-and-flexbox.md) ![](https://img.shields.io/badge/status-done-brightgreen.svg)
-* [Underscore / Lodash](courses/side-quests/c-underscore-and-lodash.md)
+* [Underscore / Lodash](courses/side-quests/c-underscore-and-lodash.md) ![](https://img.shields.io/badge/status-done-brightgreen.svg)
 * Bash scripts
