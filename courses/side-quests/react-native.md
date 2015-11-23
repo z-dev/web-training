@@ -29,11 +29,11 @@ React-Native comes with a command line cli (which is `npm install`ed). You can r
 * A `webpack` watch kind of thing starts
 * It launches the emulator with your project in.
 
-What is happening is that an iOS app (which is normally written in objective-c or swift (their new language)) launches. Internally the app then loads a javascript engine (which comes with iOS) just like the one in Safari. It then executes all your javascript / react-native code in that javascript engine. React-Native calls the render method to decide how the app should look. Whereas React (for web) would have run some jQuery-like code to modify the DOM, react-native runs some objective-c code to make the screen look as it should. When 'state' changes in a component, the render method is fired it calculates what the screen should look like vs what is currently looks like, it runs a bit of objective C to make the change etc. etc. This means the app is actually running in Objective C, and means it looks and feels like a native app [1].
+What is happening is that an iOS app (which is normally written in objective-c or swift (their new language)) launches. Internally the app then loads a javascript engine (which comes with iOS) just like the one in Safari. It then executes all your javascript / react-native code in that javascript engine. React-Native calls the render method to decide how the app should look. Whereas React (for web) would have run some jQuery-like code to modify the DOM, react-native runs some objective-c code to make the screen look as it should. When 'state' changes in a component, the render method is fired, it calculates what the screen should look like vs what is currently looks like, it runs a bit of objective C to make the change etc. etc. This means the app is actually running in Objective C, so it looks and feels like a native app [1].
 
 There are two engines react-native can use. The built in iOS javascript engine (JavaScriptCore, which powers safari), or it can attach to an external browser using *magic* e.g. Chrome.
 
-You can't fully escape xcode. Lots of settings about your app stay in xcode. If you want to add an image to the app (that is stored locally with the app), you add it in Xcode etc. But mainly you just fiddle with settings, you don't use code.
+You can't fully escape xcode. Lots of settings about your app stay in xcode. If you want to add an image to the app (that is stored locally with the app), you add it in Xcode etc. But mainly you just fiddle with settings, you don't write code in xcode, and you shouldn't have to write objective-c.
 
 ## Alternative markup (Built in components)
 
