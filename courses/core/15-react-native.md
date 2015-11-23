@@ -74,6 +74,9 @@ I've seen it break for no reason at all. If that happens and you're unsure follo
 # Tasks
 
 * Read the native docs
-* Get the UIExplorer example working.
+* Follow the [requirements](https://facebook.github.io/react-native/docs/getting-started.html#content) section
+* Initialise a new app and run it (iOS). Change some code, check you can see the change.
+* Get the [UIExplorer](https://github.com/facebook/react-native/tree/master/Examples/UIExplorer) example working and have a look through.
+* Complete Actfit. Thanks.
 
 [1] Other frameworks instead pretend to be an app. But they're actually loading a web-browser, this has the advantage you could use bootstrap, but is often a bit clunky (poor performance).
