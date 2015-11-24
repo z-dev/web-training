@@ -38,4 +38,4 @@
 * [CSS Layouts and Flexbox](courses/side-quests/b-css-layouts-and-flexbox.md) ![](https://img.shields.io/badge/status-done-brightgreen.svg)
 * [Underscore / Lodash](courses/side-quests/c-underscore-and-lodash.md) ![](https://img.shields.io/badge/status-done-brightgreen.svg)
 * Bash scripts
-* [React-Native](courses/side-quests/react-native.md)
+* [React-Native](courses/side-quests/d-react-native.md)
