@@ -191,4 +191,4 @@ Do it like throwing Spaghetti at wall. Feel free to jump backwards, re-read, re-
 * Read my Advice.
 * Skim the Primer.
 * Watch frontend masters react course.
-*
+* Do the [tasks](https://docs.google.com/document/d/1GfyOXSaBuvjIsNMh31gKfED_q7H-_3muY9xuRgStjQY/edit?usp=sharing)
