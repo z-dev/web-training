@@ -1,5 +1,7 @@
 # Become a web developer
 
+T
+
 ## Abilities
 
 * Build static website with basic styling
@@ -27,7 +29,7 @@
   * [HTTP API library (Superagent)](courses/core/13-http-apis-in-javascript.md)
 
 * Building an interactive website (2015 style!)
-  * [ES6/7](courses/core/10-es6.md
+  * [ES6/7](courses/core/10-es6.md)
   * [React](courses/core/14-react.md)
   * Routing (React router? pages.js)
 
