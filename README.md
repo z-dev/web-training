@@ -1,6 +1,10 @@
 # Become a web developer
 
+This training resource is designed with the goal of training someone with no programming experience to become a frontend web / app developer as quickly as possible. 
 
+The course is designed around 'Abilities' and grouped into courses. The scheme is opinionated, and covers just enough to get a foothold as a frontend developer.
+
+Courses typically consist of hand picked material from the internet. Suplimented with any other relevant information and some tasks.
 
 ## Abilities
 
