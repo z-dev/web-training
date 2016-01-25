@@ -77,4 +77,4 @@ Most things modify the PATH for you, or put a 'link' to the program in the corre
 
 ##Useful things you can do:
 
-[See cheatsheet]('/resources/bash-cheat-sheet.md')
+[See cheatsheet](../../resources/bash-cheat-sheet.md)
