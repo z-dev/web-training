@@ -40,3 +40,4 @@ T
 * [Underscore / Lodash](courses/side-quests/c-underscore-and-lodash.md)
 * Bash scripts
 * [React-Native](courses/side-quests/d-react-native.md)
+* [Bash and Linux](courses/side-quests/e-bash.md)
