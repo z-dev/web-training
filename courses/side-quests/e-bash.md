@@ -65,7 +65,7 @@ Think of interactive bash like the console in javascript. You're commands into a
 
 Environment variables are variables which are set by default in bash. You can modify them both temporarily and permanently.
 
-For example $JAVA_HOME is a variable used to tell the OS where Java is installed. You can change it temporarily (just for this bash instance) or forever (future bash sessions).
+For example `$JAVA_HOME` is a variable used to tell the OS where Java is installed. You can change it temporarily (just for this bash instance) or forever (future bash sessions).
 
 You set them the same as you set variables (because they are variables). You can see them all with `printenv`.
 
@@ -77,4 +77,4 @@ Most things modify the PATH for you, or put a 'link' to the program in the corre
 
 ##Useful things you can do:
 
-[See cheatsheet]('../resources/bash-cheat-sheet.md')
+[See cheatsheet]('/resources/bash-cheat-sheet.md')
