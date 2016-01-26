@@ -78,3 +78,7 @@ Most things modify the PATH for you, or put a 'link' to the program in the corre
 ##Useful things you can do:
 
 [See cheatsheet](../../resources/bash-cheat-sheet.md)
+
+#Tasks
+
+* Make a bash script which prints hello to screen. And run it.
