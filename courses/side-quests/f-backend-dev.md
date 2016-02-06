@@ -54,6 +54,8 @@ There are lots of npm packages to help you with all of this stuff. We'll run thr
 * Get our [node-seed](https://github.com/z-dev/node-seed) up and running.
 * Create a new directory on the filesystem
 * Create a file called hello.txt which contains the text: 'hello'
-* http://expressjs.com/
+* Make a HTTP get service which returns "hello" using [Express](http://expressjs.com/)
+* Make a HTTP get service which returns the JSON `{"hello": "<name>"}` and takes a param `name="john"`.
+* Make a HTTP post service which takes JSON {"hello": "john"} and returns that same json.
 * Redo the lodash task in node
 
