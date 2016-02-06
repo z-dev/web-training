@@ -42,7 +42,6 @@ Courses typically consist of hand picked material from the internet. Suplimented
 * [Advanced HTML and CSS](courses/side-quests/a-advanced-html-and-css.md)
 * [CSS Layouts and Flexbox](courses/side-quests/b-css-layouts-and-flexbox.md)
 * [Underscore / Lodash](courses/side-quests/c-underscore-and-lodash.md)
-* Bash scripts
 * [React-Native](courses/side-quests/d-react-native.md)
 * [Bash and Linux](courses/side-quests/e-bash.md)
 * [Backend Development](courses/side-quests/f-backend-dev.md)
