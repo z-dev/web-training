@@ -181,7 +181,7 @@ Inside any of the functions we pass into `createClass` e.g. `render`.  We can ac
 # Core
 
 * [React Primer](https://github.com/mikechau/react-primer-draft)
-* [React Frontend Masters](https://frontendmasters.com/courses/react/)
+* [React Plurasight course](https://app.pluralsight.com/paths/skill/react)
 * [Official Docs](https://facebook.github.io/react/docs/getting-started.html) bit crap in my opinion. They're good once you understand React enough to get stuff done, but not amazing for learning IMO.
 
 # Tasks
