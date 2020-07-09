@@ -1,4 +1,4 @@
-# HTML and CSS foundations
+#HTML and CSS foundations
 
 # Outcome
 
