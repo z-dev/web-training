@@ -182,6 +182,89 @@ Inside any of the functions we pass into `createClass` e.g. `render`.  We can ac
 
 * [React Primer](https://github.com/mikechau/react-primer-draft)
 * [React Plurasight course](https://app.pluralsight.com/paths/skill/react)
+
+These are the videos you should watch, there is a lot of content in the course that can be covered later or not at all.
+
+React getting started:
+
+The basics:
+
+Watch videos: 
+* your first react component
+* your first react hook
+* your first one-way data flow
+* component reusability
+* wrap up
+
+Setting up a dev environment: 
+Watch videos:
+
+* Create React App
+
+React fundamentals:
+
+Components: 
+
+watch videos:
+* class components
+* component lifescycle
+* state
+* setState
+
+
+JSX:
+
+Watch videos: 
+
+* What is JSX
+* Props in JSX
+* Events
+* Child expersions and elements
+
+
+Do first set of react tasks
+
+Events: 
+
+Watch videos: 
+
+* DOM Events
+* Component Events
+
+Forms: 
+
+Watch videos:
+
+* Form elements
+* Allowing user input
+
+
+Using React hooks:
+
+2:
+
+watch videos:
+
+* Our first react hook setState...
+* useRef to enable...
+* Learn how to use the useEffect...
+* useing useEffect, useRef & useState
+* improving and fixing our scrolling...
+
+
+Using more hooks: 
+
+watch videos:
+
+* React hooks basic usage and rules
+
+Do second set of tasks
+
+
+Skip redux videos for now
+
+Go to styling react and watch all videos
+
 * [Official Docs](https://facebook.github.io/react/docs/getting-started.html) bit crap in my opinion. They're good once you understand React enough to get stuff done, but not amazing for learning IMO.
 
 # Tasks
